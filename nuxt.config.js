@@ -3,7 +3,7 @@ export default {
   ssr: false,
   target:"static",
   router: {
-    base: "/se_a/" //ชื่อ github project
+    base: "/se_final/" //ชื่อ github project
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
