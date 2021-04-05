@@ -1,0 +1,41 @@
+[{
+    "id":1,
+    "name": "Pug 1",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "8000",
+    "hero": "OMG This just came out today!",
+    "image": "https://sites.google.com/site/nxnghmanxy/_/rsrc/1342664404354/withi-kar-leuxk-sux-su-nakh-phanthu-pak/imagesCALB2V4T.jpg"
+},{
+    "id":2,
+    "name": "Pug 2",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "10000",
+    "info": "This is the latest and greatest product from Derp corp.",
+    "image": "https://1.bp.blogspot.com/-XBTAbuxxGBs/X4AvDsvN_oI/AAAAAAABDik/0YIpORexZ_QJ2VO5a94PXzpilgbg7rhuACLcBGAsYHQ/s500/dog.jpg"
+},{
+    "id":3,
+    "name": "Pug 3",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "15000",
+    "offer": "BOGOF",
+    "image": "https://sites.google.com/site/pugs9659469/_/rsrc/1454995738261/nisay-hma-pak/pug1.jpg"
+},{
+    "id":4,
+    "name": "Pug 4",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "20000",
+    "image": "https://images.squarespace-cdn.com/content/v1/594974c0e58c62484cbd42f9/1507841690568-YCEDS0O3JV4DZ1YLOAI5/ke17ZwdGBToddI8pDm48kPOBacxseHzTJva0u6IkJCJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzBmPAS1KgWXrNU5fuYUtGLqx6cCcWLjY3sYClxmGyLVOMlle4uaUVvLtBZY-tp5rU/Screen+Shot+2017-10-12+at+4.54.24+PM.png"
+},{
+    "id":5,
+    "name": "Pug 5",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "30000",
+    "offer": "No srsly GTFO",
+    "image": "https://images.squarespace-cdn.com/content/v1/594974c0e58c62484cbd42f9/1507842951670-YMMI3TZKZMFXRE3RQ96V/ke17ZwdGBToddI8pDm48kJ4qssv2WMWf8db1g-KbSUZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpybavSQhxsbxjXNzpXZE2UrINpVsTtG0lObUdBmDLvUmbJBmApOlxDuC189DxVwbFM/cutest+pug+puppy+ever+contest?format=500w"
+},{
+    "id":6,
+    "name": "Pug 6",
+    "detail": "Lorem ipsum dolor sit amet",
+    "price": "32000",
+    "image": "https://imgix.ranker.com/user_node_img/50026/1000504468/original/big-eyes-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&w=375"
+}]
