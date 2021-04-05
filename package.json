@@ -7,10 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-<<<<<<< HEAD
     "deploy": "gh-pages -d dist"
-=======
->>>>>>> a8ca9dc010dd59a77922f5c872b58b7b78e64176
   },
   "dependencies": {
     "core-js": "^3.9.1",
